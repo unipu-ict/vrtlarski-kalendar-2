@@ -3,8 +3,7 @@ Mobilna aplikacija s informacijama o datumima sjetve, sadnje i branja te podsjet
 
 ### Autori (2016./2017.)
 - **Korenić Francesca** (fkorenic@unipu.hr)
-- **Utješinović	Boris**	(butjesinov@unipu.hr)
-- **Plastić	Matija**	(matija.plastic@gmail.com)
+- **Šalov-Tadić	Kristina**	(ksalov@unipu.hr)
 
 ### Organizacija
 [Sveučilište Jurja Dobrile u Puli](http://www.unipu.hr/)   
