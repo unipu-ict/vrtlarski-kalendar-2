@@ -1,7 +1,7 @@
 # vrtlarski-kalendar-2
 Mobilna aplikacija s informacijama o datumima sjetve, sadnje i branja te podsjetnicima istih
 
-### Autori (Ak.g. 2016./2017.)
+### Autori (2016./2017.)
 - **Korenić Francesca** (fkorenic@unipu.hr)
 - **Šalov-Tadić	Kristina**	(ksalov@unipu.hr)
 
